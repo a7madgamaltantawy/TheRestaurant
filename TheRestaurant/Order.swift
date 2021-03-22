@@ -1,11 +1,10 @@
 //
-//  Order.swift
-//  iDine
 //
-//  Created by Paul Hudson on 27/06/2019.
-//  Copyright © 2019 Hacking with Swift. All rights reserved.
 //
-
+//  ItemDetails.swift
+//  TheRestaurant
+//
+//  Created by Ahmed Tantawy on 17/03/2021.
 import SwiftUI
 
 class Order: ObservableObject {

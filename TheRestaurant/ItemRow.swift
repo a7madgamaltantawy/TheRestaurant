@@ -32,9 +32,9 @@ struct ItemRow: View {
                     .font(.footnote)
                 .fontWeight(.black)
                 .padding(4)
-                   // .background(DefaultMenuStyle)
+                    .background(Color.white)
                 .clipShape(Circle())
-                .foregroundColor(.blue)
+               //     .foregroundColor(colors[restriction, defa])
             }
     }
     }
